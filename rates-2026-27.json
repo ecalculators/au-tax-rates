@@ -1,0 +1,261 @@
+{
+  "name": "Australian tax and super rates 2026-27",
+  "publisher": "eCalculators (https://ecalculators.com)",
+  "updated": "2026-10-29",
+  "licence": "CC BY 4.0",
+  "note": "Figures as published by the Australian Taxation Office; each row links its ATO source page and the date it was last checked. General information only, not tax advice.",
+  "rates": [
+    {
+      "id": "sg_rate",
+      "label": "Super guarantee rate",
+      "value": 0.12,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/super-guarantee",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "max_contribution_base",
+      "label": "Maximum contribution base (annual, applied to the earnings each employer pays you, from 1 July 2026)",
+      "value": 270830,
+      "unit": "AUD",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers/payday-super/paying-super-on-payday/what-payments-are-qualifying-earnings/maximum-contributions-base",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "concessional_cap",
+      "label": "Concessional contributions cap",
+      "value": 32500,
+      "unit": "AUD",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/contributions-caps",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "non_concessional_cap",
+      "label": "Non-concessional contributions cap",
+      "value": 130000,
+      "unit": "AUD",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/contributions-caps",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "carry_forward_tsb_limit",
+      "label": "Total super balance limit for carry-forward concessional contributions",
+      "value": 500000,
+      "unit": "AUD",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/contributions-caps",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "div293_threshold",
+      "label": "Division 293 income threshold",
+      "value": 250000,
+      "unit": "AUD",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/division-293-tax",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "div293_rate",
+      "label": "Division 293 tax rate",
+      "value": 0.15,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/division-293-tax",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "medicare_levy",
+      "label": "Medicare levy",
+      "value": 0.02,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "contributions_tax",
+      "label": "Tax on concessional contributions in the fund",
+      "value": 0.15,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/growing-and-keeping-track-of-your-super/how-to-save-more-in-your-super/salary-sacrificing-super",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "resident_bracket_1",
+      "label": "Resident tax bracket from $0 to $18,200: 0% on income above $0, plus $0",
+      "value": 0,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "resident_bracket_2",
+      "label": "Resident tax bracket from $18,200 to $45,000: 15% on income above $18,200, plus $0",
+      "value": 0.15,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "resident_bracket_3",
+      "label": "Resident tax bracket from $45,000 to $135,000: 30% on income above $45,000, plus $4,020",
+      "value": 0.3,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "resident_bracket_4",
+      "label": "Resident tax bracket from $135,000 to $190,000: 37% on income above $135,000, plus $31,020",
+      "value": 0.37,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "resident_bracket_5",
+      "label": "Resident tax bracket from $190,000 and over: 45% on income above $190,000, plus $51,370",
+      "value": 0.45,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_single_tier_0",
+      "label": "Medicare levy surcharge, single, income from $0 to $105,000",
+      "value": 0,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_single_tier_1",
+      "label": "Medicare levy surcharge, single, income from $105,000 to $123,000",
+      "value": 0.01,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_single_tier_2",
+      "label": "Medicare levy surcharge, single, income from $123,000 to $164,000",
+      "value": 0.0125,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_single_tier_3",
+      "label": "Medicare levy surcharge, single, income from $164,000 and over",
+      "value": 0.015,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_family_tier_0",
+      "label": "Medicare levy surcharge, family, income from $0 to $210,000",
+      "value": 0,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_family_tier_1",
+      "label": "Medicare levy surcharge, family, income from $210,000 to $246,000",
+      "value": 0.01,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_family_tier_2",
+      "label": "Medicare levy surcharge, family, income from $246,000 to $328,000",
+      "value": 0.0125,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "mls_family_tier_3",
+      "label": "Medicare levy surcharge, family, income from $328,000 and over",
+      "value": 0.015,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "help_tier_0",
+      "label": "HELP repayment income from $0 to $69,528: 0c per $1 above $0, plus $0",
+      "value": 0,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/study-and-training-support-loans-rates-and-repayment-thresholds",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "help_tier_1",
+      "label": "HELP repayment income from $69,528 to $129,717: 15c per $1 above $69,528, plus $0",
+      "value": 0.15,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/study-and-training-support-loans-rates-and-repayment-thresholds",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "help_tier_2",
+      "label": "HELP repayment income from $129,717 to $186,050: 17c per $1 above $129,717, plus $9,028",
+      "value": 0.17,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/study-and-training-support-loans-rates-and-repayment-thresholds",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "help_tier_3",
+      "label": "HELP repayment income from $186,050 and over: 10% of total repayment income",
+      "value": 0.1,
+      "unit": "rate",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/study-and-training-support-loans-rates-and-repayment-thresholds",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "div296_lsbt",
+      "label": "Division 296 large super balance threshold",
+      "value": 3000000,
+      "unit": "AUD",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/division-296-tax-thresholds-and-interest",
+      "checked": "2026-10-22"
+    },
+    {
+      "id": "div296_vlsbt",
+      "label": "Division 296 very large super balance threshold",
+      "value": 10000000,
+      "unit": "AUD",
+      "tax_year": "2026-27",
+      "source": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/division-296-tax-thresholds-and-interest",
+      "checked": "2026-10-22"
+    }
+  ]
+}
